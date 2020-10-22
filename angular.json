@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MemEx"
+    }
+  },
+  "defaultProject": "MemEx",
+  "cli": {
+    "analytics": false
+  }
 }
